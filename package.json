@@ -1,0 +1,20 @@
+{
+  "name": "Eric-Zoleski-Hinge-Brief",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zdubz7/Eric-Zoleski-Hinge-Brief.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zdubz7/Eric-Zoleski-Hinge-Brief/issues"
+  },
+  "homepage": "https://github.com/Zdubz7/Eric-Zoleski-Hinge-Brief#readme"
+}
